@@ -12,6 +12,13 @@ The solution also includes a test site with some sample HTML, CSS, and JavaScrip
 - **Console Web Server**: A basic HTTP server to serve static files and provide insight into how web servers work.
 - **Test Site**: A basic test website containing HTML, CSS, and JavaScript to use with the server.
 
+## Video Tutorial
+
+Watch the full video tutorial on YouTube:
+[Watch here](https://www.youtube.com/watch?v=ZeRkgOmsmlE)
+
+
+
 ## Test Site
 The `test-site` folder includes a simple HTML site to demonstrate the web server functionality. It consists of four files:
 - `index.html`
