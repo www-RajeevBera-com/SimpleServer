@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleServer", "SimpleServer\SimpleServer.csproj", "{8922BDC0-676B-461C-A49B-5A5EF0314AE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleServeGUI", "SimpleServeGUI\SimpleServeGUI.csproj", "{9E765DE2-0FB7-4D9A-BCE8-33EB5F2C1D88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test-site", "test-site", "{AA2C623E-C529-4190-8DF8-51DD0764F930}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\temp\home.html = ..\..\..\..\..\temp\home.html
+		..\..\..\..\..\temp\index.html = ..\..\..\..\..\temp\index.html
+		..\..\..\..\..\temp\script.js = ..\..\..\..\..\temp\script.js
+		..\..\..\..\..\temp\style.css = ..\..\..\..\..\temp\style.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8922BDC0-676B-461C-A49B-5A5EF0314AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8922BDC0-676B-461C-A49B-5A5EF0314AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8922BDC0-676B-461C-A49B-5A5EF0314AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8922BDC0-676B-461C-A49B-5A5EF0314AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E765DE2-0FB7-4D9A-BCE8-33EB5F2C1D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E765DE2-0FB7-4D9A-BCE8-33EB5F2C1D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E765DE2-0FB7-4D9A-BCE8-33EB5F2C1D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E765DE2-0FB7-4D9A-BCE8-33EB5F2C1D88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C97C2B0-4CB6-4534-A684-3426EFA9D8C0}
+	EndGlobalSection
+EndGlobal
